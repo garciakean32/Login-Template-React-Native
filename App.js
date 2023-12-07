@@ -336,7 +336,6 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
     borderRadius: 15,
     minWidth: 280,
-
   },
   resetTextDesign: {
     flex: 1,
